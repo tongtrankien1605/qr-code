@@ -3,4 +3,4 @@
 
 <br/>
 
-## 🌐 Truy cập website để sử dụng demo [TẠI ĐÂY](https://tongtrankien1605.github.io/QR-code/)
+## 🌐 Truy cập website để sử dụng demo [TẠI ĐÂY](https://tongtrankien1605.github.io/qr-code/)
