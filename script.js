@@ -20,7 +20,7 @@ const banks = [
   { id: "NCB", name: "NCB", logo: "image/NCB.png", bin: "970419" },
   { id: "OCB", name: "OCB", logo: "image/OCB.png", bin: "970448" },
   { id: "OCEANBANK", name: "OceanBank", logo: "image/Ocean-Bank.png", bin: "970414" },
-  { id: "PGBANK", name: "PG Bank", logo: "image/PGBank.png", bin: "970430" },
+  { id: "PGBANK", name: "PG Bank", logo: "image/PG-Bank.png", bin: "970430" },
   { id: "PBVN", name: "Public Bank Vietnam", logo: "image/Public-Bank-Vietnam.png", bin: "970439" },
   { id: "PVCOMBANK", name: "PVcomBank", logo: "image/PV-COM-BANK.png", bin: "970412" },
   { id: "SACOMBANK", name: "Sacombank", logo: "image/Sacombank.png", bin: "970403" },
