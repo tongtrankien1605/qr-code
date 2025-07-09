@@ -28,7 +28,7 @@ const banks = [
   { id: "SCB", name: "SCB", logo: "image/SCB.png", bin: "970429" },
   { id: "SEABANK", name: "SeABank", logo: "image/Se-A-Bank.png", bin: "970440" },
   { id: "SHB", name: "SHB", logo: "image/SHB.png", bin: "970443" },
-  { id: "SHBVNEO", name: "Shinhan Bank", logo: "image/shinhan-Bank.png", bin: "970424" },
+  { id: "SHBVNEO", name: "Shinhan Bank", logo: "image/Shinhan-Bank.png", bin: "970424" },
   { id: "STANDARDCHARTERED", name: "Standard Chartered", logo: "image/Standard-Chartered.png", bin: "970410" },
   { id: "TPB", name: "TPBank", logo: "image/TPBank.png", bin: "970423" },
   { id: "UNITEDOVERSEAS", name: "UOB", logo: "image/UOB.png", bin: "970458" },
